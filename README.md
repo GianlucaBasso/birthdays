@@ -6,9 +6,10 @@ In this repository you can find a file named ```birthday.py``` that contains a s
 ```
 $ python main.py
 Albert Einstein's birthday is 03/14/1879.
+Gianluca Basso's birthday is 07/10/1997
+ciaone
 Sadly, we don't have Alan Turing's birthday.
 ```
-ciaone
 
 ## Credits:
 
