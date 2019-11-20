@@ -2,5 +2,6 @@
 
 from birthdays import return_birthday
 
-return_birthday('Albert Einstein')
-return_birthday('Alan Turing')
+return_birthday('Albert Einstein was a Genirus')
+return_birthday('Andrea Marino was cooking carbonara')
+return_birthday('Guancialotto`s birthady is on May the 7th')
